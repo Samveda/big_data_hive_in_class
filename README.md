@@ -1,6 +1,6 @@
-# Hive
-
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
+
+# Hive
 
 Apache Hive is an open source project run by volunteers at the Apache Software Foundation. Previously it was a subproject of Apache Hadoop, but has now graduated to become a top-level project of its own. We encourage you to learn about the project and contribute your expertise.
 
@@ -24,6 +24,8 @@ Apache Hive is an open source project run by volunteers at the Apache Software F
 - Running and Executing HIVE and IMPALA scripts
 - Components of HIVE & IMPALA
 - Extending HIVE where required to achieve different objectives
+
+## Agenda
 - What is Hive
 - Hive Architecture
 - Hive Query Language
@@ -31,7 +33,7 @@ Apache Hive is an open source project run by volunteers at the Apache Software F
 
 ## Slides
 
-[Big Data and Hadoop Introduction](https://github.com/commit-live-students/big_data_hadoop_in_class/blob/master/notebooks/Hadoop_Day-1a-Introduction.pdf)
+[Hive](https://github.com/commit-live-students/big_data_hive_in_class/blob/master/notebooks/Hadoop_Day-3-Hive.pdf)
 
 
 ## Post Reads
