@@ -11,7 +11,7 @@ Apache Hive is an open source project run by volunteers at the Apache Software F
 ## In Class Activity
 
 * Installation of Hive
-* Hands-on exercise with datasets
+* Hands-on exercise with [datasets](https://github.com/commit-live-students/big_data_hive_in_class/tree/master/data)
 
 
 ## Pre Reads
